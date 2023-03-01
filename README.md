@@ -1,4 +1,4 @@
-# Dia 07 - Array Parte 02
+# Desafio JavaScript - Array Parte 02
 
 * [Link para o desafio](https://lizvidotti91.github.io/desafio-30-dias-js/Dia%207/index.html); 
 
